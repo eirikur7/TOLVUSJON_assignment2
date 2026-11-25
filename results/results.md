@@ -1,5 +1,5 @@
 # Assignment 2: Line detection with RANSAC
-Github: 
+Github: https://github.com/eirikur7/TOLVUSJON_assignment2.git
 
 All numbers come from my own runs. Raw logs are the CSV files in `results/`, one per run, with a screenshot of the same name.
 
